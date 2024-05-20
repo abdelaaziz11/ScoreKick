@@ -38,7 +38,7 @@ h3 {
     line-height: 70px;
     padding-left: 10px;
 }
-.popover, .pipover{
+.popover, .pipover, .login{
     list-style: none;
     padding-top: 10px;
     padding-bottom: 20px;
@@ -66,4 +66,13 @@ h3 {
     padding-bottom: 22px;
     padding-left: 10px;
     text-align: right;
+}
+.Login:hover > .login {
+    display: block;
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
 }
