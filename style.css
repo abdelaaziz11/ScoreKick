@@ -13,6 +13,9 @@ body{
     /* background-color: rgba(11, 113, 111, 0.803); */
 }
 header{
+    background-image: url(images/logo4.png);
+    background-repeat: no-repeat;
+    background-position: 10px;
     background-color: rgba(0, 0, 0, 0.461);
     height: 70px;
     width: 100%;
@@ -20,7 +23,7 @@ header{
 }
 header h2{
     line-height: 70px;
-    padding-left: 20px;
+    padding-left: 70px;
 }
 .mockups{
     margin-top: -40px;
@@ -70,9 +73,18 @@ h3 {
 .Login:hover > .login {
     display: block;
 }
-p {
+.home{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     height: 80vh;
+}
+h1 {
+    text-align: center;
+    color: #f98900;
+}
+p{
+    text-align: center;
+    color: #ffffff;
 }
