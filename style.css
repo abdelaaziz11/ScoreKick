@@ -58,9 +58,6 @@ h3 {
 }
 .live:hover > .pipover{
     display: block;
-
-    
-
 }
 .popover h4, .pipover h4{
     padding-left: 10px;
@@ -88,3 +85,18 @@ p{
     text-align: center;
     color: #ffffff;
 }
+a:hover,
+.live:hover,
+.match:hover,
+.login:hover,
+.Login:hover{
+    color: #f98900;
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.login{
+    color: #ffffff;
+}
+
