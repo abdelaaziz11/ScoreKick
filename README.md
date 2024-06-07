@@ -5,9 +5,9 @@
 
 ScoreKick is a dynamic web application designed to provide soccer fans with real-time access to live scores and match schedules from the five big europa leagues. With ScoreKick, users can stay updated on the latest soccer action, whether it's their favorite teams competing or matches from international leagues.
 
-Read our final project blog article.
+Read our final project blog article.<br>
 Authors:
-    - Abdelaaziz Khouda <linkedin.com/in/abdel-khouda-502b03253>, 
+    - Abdelaaziz Khouda <linkedin.com/in/abdel-khouda-502b03253>, <br>
     - Hamid Bouayadi <bouayadihamid>, 
     - Mohamed El Bouhmi <Kryuel17>.
 
