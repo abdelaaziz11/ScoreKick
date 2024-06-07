@@ -6,20 +6,21 @@
 ScoreKick is a dynamic web application designed to provide soccer fans with real-time access to live scores and match schedules from the five big europa leagues. With ScoreKick, users can stay updated on the latest soccer action, whether it's their favorite teams competing or matches from international leagues.
 
 Read our final project blog article
+
 Authors: 
-Abdelaaziz Khouda <linkedin.com/in/abdel-khouda-502b03253>, 
-Hamid Bouayadi <bouayadihamid>, 
-Mohamed El Bouhmi <Kryuel17>
+    Abdelaaziz Khouda <linkedin.com/in/abdel-khouda-502b03253>, 
+    Hamid Bouayadi <bouayadihamid>, 
+    Mohamed El Bouhmi <Kryuel17>.
 
 **Installation**
 
 To install ScoreKick locally, follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/scorekick.git
+Clone the repository: git clone https://github.com/abdelaaziz11/scorekick.git
 Navigate to the project directory: cd scorekick
 Install dependencies: npm install
 Start the server: npm start
-Open your web browser and visit: http://localhost:3000
+Open your web browser and visit: https://qkpage2.co/p/ScoreKick_Home
 
 **Usage**
 
