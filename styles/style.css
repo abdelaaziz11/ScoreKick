@@ -4,16 +4,17 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+/* body */
 body{
-    background-image: url(images/background.jpg);
+    background-image: url(../images/background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    /* background-color: rgba(11, 113, 111, 0.803); */
 }
+/* HEADER */
 header{
-    background-image: url(images/logo4.png);
+    background-image: url(../images/logo4.png);
     background-repeat: no-repeat;
     background-position: 10px;
     background-color: rgba(0, 0, 0, 0.461);
@@ -25,22 +26,26 @@ header h2{
     line-height: 70px;
     padding-left: 70px;
 }
+/* MOCKUPS */
 .mockups{
     margin-top: -40px;
     width: 100%;
     display: flex;
     justify-content: right;
 }
+
 .mockups h4{
     font-size: 600;
     padding-bottom: 21.5px;
     padding-left: 25px;
     padding-right: 35px;
 }
+
 h3 {
     line-height: 70px;
     padding-left: 10px;
 }
+
 .popover, .pipover, .login{
     list-style: none;
     padding-top: 10px;
@@ -48,8 +53,6 @@ h3 {
     padding-left: 10px;
     display: none;
     background-color:  rgba(0, 0, 0, 0.461);
-    /* border: 1px solid #DDDDDD;
-    border-radius: 4px; */
     border: 1px solid none;
     border-radius: 1px;
 }
@@ -66,6 +69,22 @@ h3 {
     padding-left: 10px;
     text-align: right;
 }
+.login{
+    color: #ffffff;
+}
+a:hover,
+.live:hover,
+.match:hover,
+.login:hover,
+.Login:hover{
+    color: #f98900;
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* BODY */
 .home{
     display: flex;
     justify-content: center;
@@ -81,18 +100,6 @@ p{
     text-align: center;
     color: #ffffff;
 }
-a:hover,
-.live:hover,
-.match:hover,
-.login:hover,
-.Login:hover{
-    color: #f98900;
-}
-a{
-    color: #ffffff;
-    text-decoration: none;
-}
-.login{
-    color: #ffffff;
-}
+
+
 

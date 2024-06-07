@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-
+/* HEADER */
 h1{
     text-align: center;
     padding-top: 30px;
@@ -12,6 +12,7 @@ h1{
     color: blue;
     
 }
+/* FORM */
 .frm{
     width: 100%;
     display: flex;
