@@ -7,9 +7,9 @@ ScoreKick is a dynamic web application designed to provide soccer fans with real
 
 Read our final project blog article.
 Authors:
-    Abdelaaziz Khouda <linkedin.com/in/abdel-khouda-502b03253>, 
-    Hamid Bouayadi <bouayadihamid>, 
-    Mohamed El Bouhmi <Kryuel17>.
+    - Abdelaaziz Khouda <linkedin.com/in/abdel-khouda-502b03253>, 
+    - Hamid Bouayadi <bouayadihamid>, 
+    - Mohamed El Bouhmi <Kryuel17>.
 
 **Installation**
 
@@ -41,7 +41,7 @@ Football Data API: The API that powers ScoreKick with real-time soccer data.
 ESPN Soccer Scores & Fixtures App: Similar to ScoreKick, providing live scores and match schedules for soccer matches worldwide.
 
 
-Resources
+**Resources**
 
 What your code repository says about you
 Here’s an awesome list of READMEs
