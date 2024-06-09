@@ -7,9 +7,9 @@ ScoreKick is a dynamic web application designed to provide soccer fans with real
 
 Read our final project blog article.<br>
 Authors:<br>
-    - Abdelaaziz Khouda <linkedin.com/in/abdel-khouda-502b03253>, <br>
-    - Hamid Bouayadi <bouayadihamid>, <br>
-    - Mohamed El Bouhmi <Kryuel17>.
+    - Abdelaaziz Khouda 'linkedin.com/in/abdel-khouda-502b03253', <br>
+    - Hamid Bouayadi 'bouayadihamid', <br>
+    - Mohamed El Bouhmi 'Kryuel17'.
 
 **Installation**
 
